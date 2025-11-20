@@ -6,7 +6,7 @@
       steam
       steam-run
       steamtinkerlaunch
-      atlauncher
+      prismlauncher
       gamescope
       heroic
       lutris
